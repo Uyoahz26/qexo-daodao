@@ -1,0 +1,8 @@
+page {
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, 'Segoe UI', Arial,
+    Roboto, 'PingFang SC', miui, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;
+}
+.safe-area-inset-bottom {
+  padding-bottom: 0;
+  padding-bottom: env(safe-area-inset-bottom);
+}

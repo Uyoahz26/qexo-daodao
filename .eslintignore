@@ -1,0 +1,13 @@
+# 指定文件
+node_modules
+dist
+public
+Dockerfile
+
+# 全局文件
+*.md
+*.css
+*.scss
+*.woff
+*.ttf
+*.sh

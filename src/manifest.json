@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "description": "",
+  "transformPx": false,
+  "mp-weixin": {
+    // "appid": "wx116596f9985416b8",
+    "appid": "wx757a1c7f23d22110",
+    "setting": {
+      "urlCheck": false,
+      "es6": false,
+      "postcss": false,
+      "minified": false,
+      "checkSiteMap": false
+    },
+    "optimization": {
+      "subPackages": true
+    },
+    "usingComponents": true,
+    "permission": {},
+    "requiredBackgroundModes": ["location"]
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "vueVersion": "3"
+}

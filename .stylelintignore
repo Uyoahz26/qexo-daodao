@@ -1,0 +1,4 @@
+# 指定文件
+node_modules
+dist
+public
